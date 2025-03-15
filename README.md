@@ -1,6 +1,14 @@
+---
+marp: true
+theme: gaia 
+paginate: true
+---
+
 # Sistema de Control de Acceso Electrónico (SCAE-UPT)
 ## Universidad Privada de Tacna
-![https://github.com/UPT-FAING-EPIS/proyecto-si784-2025-i-u1-scae-upt](https://www.upt.edu.pe/upt/sgc/assets/ckeditor/kcfinder/upload/images/SIGMAAUPT.jpg)
+![width:600px height:auto](https://www.upt.edu.pe/upt/sgc/assets/ckeditor/kcfinder/upload/images/SIGMAAUPT.jpg)
+
+---
 ### Curso: Calidad y Pruebas de Software  
 ### 🎓 **Integrantes**
 - **Renzo Antayhua** 
@@ -39,6 +47,8 @@ Se estima que **miles de personas** se ven afectadas por esta problemática en l
 - ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)  **Base de datos MySQL** en la nube para gestión centralizada.
 - **API de Factiliza** para verificación de identidad con DNI.
 - **Interfaz en tiempo real** para consultas y administración.
+
+---
 
 ### **Limitaciones:**
 - Es necesario **capacitar al personal** para el uso del sistema.
