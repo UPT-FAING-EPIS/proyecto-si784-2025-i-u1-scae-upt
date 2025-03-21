@@ -18,13 +18,15 @@ Docente: *Mag. Patrick Cuadros Quiroga*
 
 Integrantes:
 
-***{Apellidos y nombres del estudiante (2022073503)}***
-***{Apellidos y nudiante (2022073503)}***
-***{Colque Ponce Sergio Alberto (2022073503)}***
+**Ancco Suaña Bruno Enrique (2023077472)**
+
+**Antayhua Mamani Renzo Antonio (2022073504)**
+
+**Colque Ponce Sergio Alberto (2022073503)**
 
 **Tacna – Perú**
 
-***{2025}***
+***2025***
 
 **  
 **
@@ -188,13 +190,5 @@ El sistema facilita la documentación de software, asegurando la claridad de los
 
 Se recomienda a las empresas adoptar la herramienta para mejorar sus procesos de ingeniería de software y garantizar documentación de alta calidad.
 
-**BIBLIOGRAFIA**
-
-- IEEE 830-1998: Recommended Practice for Software Requirements Specifications.
-
-**WEBGRAFIA**
-
-- https://www.ieee.org
-- https://uml.org
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
