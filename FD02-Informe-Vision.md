@@ -12,17 +12,19 @@
 
 **Proyecto *{Nombre de Proyecto}***
 
-Curso: *{Nombre de Asignatura}*
+Curso: *Calidad y Prueba de Software*
 
-Docente: *{Nombre de Docente}*
+Docente: *Mag. Patrick Cuadros Quiroga*
 
 Integrantes:
 
-***{Apellidos y nombres del estudiante (código universitario)}***
+***{Apellidos y nombres del estudiante (2022073503)}***
+***{Apellidos y nudiante (2022073503)}***
+***{Colque Ponce Sergio Alberto (2022073503)}***
 
 **Tacna – Perú**
 
-***{Año}***
+***{2025}***
 
 **  
 **
@@ -32,199 +34,167 @@ Integrantes:
 |CONTROL DE VERSIONES||||||
 | :-: | :- | :- | :- | :- | :- |
 |Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
-|1\.0|MPV|ELV|ARV|10/10/2020|Versión Original|
+|1.0|MPV|ELV|ARV|10/10/2020|Versión Original|
 
-
-
-
-
-
-
-
-
-
-
-
-**Sistema *{Nombre del Sistema}***
+**Sistema *Sistema de Gestión de Requerimientos y Documentación UML***
 
 **Documento de Visión**
 
-**Versión *{1.0}***
-**
+**Versión *1.0***
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-|CONTROL DE VERSIONES||||||
-| :-: | :- | :- | :- | :- | :- |
-|Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
-|1\.0|MPV|ELV|ARV|10/10/2020|Versión Original|
+**1. Introducción**
 
+1.1 **Propósito**
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+El propósito de este documento es describir el sistema de gestión de requerimientos y documentación UML. La herramienta ayuda a los analistas a mejorar la definición de requisitos mediante sugerencias automáticas, categorización y generación de diagramas UML.
 
+1.2 **Alcance**
 
-**INDICE GENERAL**
-#
-[1.	Introducción](#_Toc52661346)
+Esta herramienta permite capturar, analizar y documentar requerimientos de software. Facilita la estructuración de documentación técnica y la exportación en múltiples formatos.
 
-1.1	Propósito
+1.3 **Definiciones, Siglas y Abreviaturas**
 
-1.2	Alcance
+- UML: Unified Modeling Language
+- IEEE: Institute of Electrical and Electronics Engineers
+- JSON: JavaScript Object Notation
+- XML: Extensible Markup Language
 
-1.3	Definiciones, Siglas y Abreviaturas
+1.4 **Referencias**
 
-1.4	Referencias
+- IEEE 830-1998: Recomendaciones para especificaciones de requerimientos de software.
+- UML 2.5 Specification – Object Management Group (OMG).
 
-1.5	Visión General
+1.5 **Visión General**
 
-[2.	Posicionamiento](#_Toc52661347)
-
-2.1	Oportunidad de negocio
-
-2.2	Definición del problema
-
-[3.	Descripción de los interesados y usuarios](#_Toc52661348)
-
-3.1	Resumen de los interesados
-
-3.2	Resumen de los usuarios
-
-3.3	Entorno de usuario
-
-3.4	Perfiles de los interesados
-
-3.5	Perfiles de los Usuarios
-
-3.6	Necesidades de los interesados y usuarios
-
-[4.	Vista General del Producto](#_Toc52661349)
-
-4.1	Perspectiva del producto
-
-4.2	Resumen de capacidades
-
-4.3	Suposiciones y dependencias
-
-4.4	Costos y precios
-
-4.5	Licenciamiento e instalación
-
-[5.	Características del producto](#_Toc52661350)
-
-[6.	Restricciones](#_Toc52661351)
-
-[7.	Rangos de calidad](#_Toc52661352)
-
-[8.	Precedencia y Prioridad](#_Toc52661353)
-
-[9.	Otros requerimientos del producto](#_Toc52661354)
-
-b) Estandares legales
-
-c) Estandares de comunicación	](#_toc394513800)37
-
-d) Estandaraes de cumplimiento de la plataforma	](#_toc394513800)42
-
-e) Estandaraes de calidad y seguridad	](#_toc394513800)42
-
-[CONCLUSIONES](#_Toc52661355)
-
-[RECOMENDACIONES](#_Toc52661356)
-
-[BIBLIOGRAFIA](#_Toc52661357)
-
-[WEBGRAFIA](#_Toc52661358)
-
+El documento está estructurado en secciones que abarcan la descripción del sistema, características, restricciones y estándares de calidad.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-**<u>Informe de Visión</u>**
+**2. Posicionamiento**
 
-1. <span id="_Toc52661346" class="anchor"></span>**Introducción**
+2.1 **Oportunidad de negocio**
 
-    1.1	Propósito
+Las empresas requieren herramientas que agilicen la documentación de software, minimizando ambigüedades en los requerimientos y asegurando calidad en la documentación.
 
-    1.2	Alcance
+2.2 **Definición del problema**
 
-    1.3	Definiciones, Siglas y Abreviaturas
-
-    1.4	Referencias
-
-    1.5	Visión General
+Muchos proyectos fallan debido a requisitos mal definidos. La herramienta busca mejorar este proceso mediante recomendaciones automáticas y gestión de versiones.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-2. <span id="_Toc52661347" class="anchor"></span>**Posicionamiento**
+**3. Descripción de los interesados y usuarios**
 
-    2.1	Oportunidad de negocio
+3.1 **Resumen de los interesados**
 
-    2.2	Definición del problema
+Los interesados principales son analistas de sistemas, desarrolladores, arquitectos de software y gerentes de proyectos.
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+3.2 **Resumen de los usuarios**
 
-3. <span id="_Toc52661348" class="anchor"></span>**Vista General del Producto**
+Los usuarios interactúan con la herramienta para definir y mejorar requerimientos, generar diagramas UML y estructurar documentación técnica.
 
-    3.1	Resumen de los interesados
+3.3 **Entorno de usuario**
 
-    3.2	Resumen de los usuarios
+Interfaz intuitiva basada en web con soporte para múltiples formatos de exportación y edición colaborativa.
 
-    3.3	Entorno de usuario
+3.4 **Perfiles de los interesados**
 
-    3.4	Perfiles de los interesados
+- **Analistas:** Crean y mejoran los requerimientos.
+- **Desarrolladores:** Utilizan los documentos generados para implementar software.
+- **Gerentes de proyecto:** Supervisan la documentación.
 
-    3.5	Perfiles de los Usuarios
+3.5 **Perfiles de los Usuarios**
 
-    3.6	Necesidades de los interesados y usuarios
+- **Principiantes:** Usuarios con poca experiencia en documentación de software.
+- **Avanzados:** Usuarios familiarizados con estándares como IEEE 830 y UML.
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+3.6 **Necesidades de los interesados y usuarios**
 
-4. <span id="_Toc52661349" class="anchor"></span>**Estudio de
-    Factibilidad**
-
-    4.1	Perspectiva del producto
-
-    4.2	Resumen de capacidades
-
-    4.3	Suposiciones y dependencias
-
-    4.4	Costos y precios
-
-    4.5	Licenciamiento e instalación
+- Mejorar la calidad de los requerimientos.
+- Automatizar la generación de documentación técnica.
+- Facilitar la exportación de documentos en formatos estándar.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-5. <span id="_Toc52661350" class="anchor"></span>**Características del producto**
+**4. Vista General del Producto**
+
+4.1 **Perspectiva del producto**
+
+El sistema actúa como una plataforma centralizada para la gestión de requerimientos.
+
+4.2 **Resumen de capacidades**
+
+- Análisis automático de requisitos.
+- Generación de diagramas UML.
+- Exportación en múltiples formatos.
+
+4.3 **Suposiciones y dependencias**
+
+- Requiere acceso a internet para exportar documentos a la nube.
+- Compatible con navegadores modernos.
+
+4.4 **Costos y precios**
+
+Modelo de negocio basado en suscripción mensual para empresas y versión gratuita con funcionalidad limitada.
+
+4.5 **Licenciamiento e instalación**
+
+Disponible bajo licencia de software libre con opciones de licencia empresarial.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-6. <span id="_Toc52661351" class="anchor"></span>**Restricciones**
+**5. Características del producto**
+
+- **Sugerencias de mejora en los requerimientos.**
+- **Categorización automática de requerimientos.**
+- **Generación automática de diagramas UML.**
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-7. <span id="_Toc52661352" class="anchor"></span>**Rangos de Calidad**
+**6. Restricciones**
+
+- No compatible con navegadores obsoletos.
+- Requiere una conexión estable a internet para colaborar en equipo.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-8. <span id="_Toc52661353" class="anchor"></span>**Precedencia y Prioridad**
+**7. Rangos de Calidad**
+
+- Evaluación de claridad y precisión en los requisitos.
+- Identificación automática de inconsistencias en la documentación.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-9. <span id="_Toc52661354" class="anchor"></span>**Otros requerimientos del producto**
+**8. Precedencia y Prioridad**
+
+- Enfoque en la mejora de calidad de requerimientos.
+- Priorización de funcionalidades más utilizadas en la industria.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-<span id="_Toc52661355" class="anchor"></span>**CONCLUSIONES**
+**9. Otros requerimientos del producto**
+
+- Cumplimiento con estándares IEEE 830.
+- Exportación en múltiples formatos como Word, PDF, JSON y Markdown.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-<span id="_Toc52661356" class="anchor"></span>**RECOMENDACIONES**
+**CONCLUSIONES**
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+El sistema facilita la documentación de software, asegurando la claridad de los requisitos y permitiendo la generación automática de diagramas UML.
 
-<span id="_Toc52661357" class="anchor"></span>**BIBLIOGRAFIA**
+**RECOMENDACIONES**
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+Se recomienda a las empresas adoptar la herramienta para mejorar sus procesos de ingeniería de software y garantizar documentación de alta calidad.
 
-<span id="_Toc52661358" class="anchor"></span>**WEBGRAFIA**
+**BIBLIOGRAFIA**
+
+- IEEE 830-1998: Recommended Practice for Software Requirements Specifications.
+
+**WEBGRAFIA**
+
+- https://www.ieee.org
+- https://uml.org
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
