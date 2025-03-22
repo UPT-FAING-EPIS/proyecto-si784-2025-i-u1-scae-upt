@@ -70,7 +70,7 @@ Esta herramienta permite capturar, analizar y documentar requerimientos de softw
 
 1.5 **Visión General**
 
-El documento está estructurado en secciones que abarcan la descripción del sistema, características, restricciones y estándares de calidad.
+El Sistema de Gestión de Requerimientos y Documentación UML es una herramienta diseñada para optimizar el proceso de definición y gestión de requisitos en proyectos de desarrollo de software. Su objetivo principal es mejorar la calidad de los requerimientos mediante el uso de sugerencias automáticas, categorización de los mismos y la capacidad de generar diagramas UML automáticamente.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
