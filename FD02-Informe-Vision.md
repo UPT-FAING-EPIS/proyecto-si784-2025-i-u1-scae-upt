@@ -123,26 +123,30 @@ Interfaz intuitiva basada en web con soporte para múltiples formatos de exporta
 
 4.1 **Perspectiva del producto**
 
-El sistema actúa como una plataforma centralizada para la gestión de requerimientos.
+El Sistema de Gestión de Requerimientos y Documentación UML se presenta como una plataforma centralizada para la captura, análisis y gestión de los requisitos de software. Actúa como una herramienta clave en el ciclo de vida del desarrollo de software, permitiendo la documentación estructurada, la colaboración en línea y la generación automática de diagramas UML a partir de los requerimientos definidos.
 
 4.2 **Resumen de capacidades**
 
-- Análisis automático de requisitos.
-- Generación de diagramas UML.
-- Exportación en múltiples formatos.
+- Análisis automático de requisitos: El sistema puede analizar los requisitos ingresados por el usuario, sugiriendo mejoras y proporcionando recomendaciones para asegurar que los requisitos sean claros, completos y bien definidos.
+- Generación automática de diagramas UML: El sistema puede generar diagramas UML automáticamente (diagrama de clases, casos de uso, secuencia, entre otros) a partir de los requisitos capturados, lo que agiliza el proceso de documentación técnica.
+- Exportación en múltiples formatos: Los usuarios pueden exportar los documentos generados en varios formatos estándar, incluidos PDF, Word, JSON y Markdown, lo que facilita la integración con otros sistemas o la entrega de documentación técnica.
+- Cumplimiento de estándares: El sistema cumple con estándares reconocidos como el IEEE 830 para la especificación de requisitos y la especificación UML para diagramas.
 
 4.3 **Suposiciones y dependencias**
 
-- Requiere acceso a internet para exportar documentos a la nube.
-- Compatible con navegadores modernos.
+- Compatibilidad con navegadores modernos: El sistema es compatible con los navegadores más utilizados, como Google Chrome, Mozilla Firefox, y Safari. No es compatible con versiones antiguas de navegadores.
+- Dependencia de plataformas en la nube: El sistema utiliza servicios en la nube (como AWS o Google Cloud) para almacenamiento de datos y operaciones en tiempo real, lo que requiere que los usuarios tengan acceso a estas plataformas.
+- Usuarios con experiencia básica o avanzada en UML: Aunque el sistema está diseñado para ser intuitivo, se asume que los usuarios tendrán una comprensión básica de los conceptos de UML y gestión de requisitos de software.
 
 4.4 **Costos y precios**
 
-Modelo de negocio basado en suscripción mensual para empresas y versión gratuita con funcionalidad limitada.
+El sistema se ofrecerá bajo un modelo de suscripción mensual con opciones para empresas y usuarios individuales:
+- Suscripción empresarial: Tarifa mensual basada en el número de usuarios que necesiten acceder al sistema.
+- Versión gratuita: Una versión con funcionalidad limitada, ideal para equipos pequeños o usuarios que deseen probar el sistema antes de comprometerse a la suscripción.
 
 4.5 **Licenciamiento e instalación**
 
-Disponible bajo licencia de software libre con opciones de licencia empresarial.
+El sistema se ofrece bajo una licencia de software libre para uso personal o educativo, y licencias empresariales para uso comercial, que incluyen soporte y actualizaciones.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
@@ -156,22 +160,25 @@ Disponible bajo licencia de software libre con opciones de licencia empresarial.
 
 **6. Restricciones**
 
-- No compatible con navegadores obsoletos.
-- Requiere una conexión estable a internet para colaborar en equipo.
+- Compatibilidad limitada con navegadores antiguos, lo que podría afectar el rendimiento en versiones de navegadores más antiguos.
+- La herramienta requiere servicios de almacenamiento en la nube, lo que implica que el acceso a los datos depende de la disponibilidad de estos servicios.
+- La versión gratuita tiene funcionalidades limitadas, como el número de diagramas UML que se pueden generar y el número de usuarios que pueden acceder simultáneamente.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 **7. Rangos de Calidad**
 
-- Evaluación de claridad y precisión en los requisitos.
-- Identificación automática de inconsistencias en la documentación.
+- Claridad y precisión: El sistema garantiza que los requerimientos sean claros y bien definidos, ayudando a evitar ambigüedades.
+- Consistencia en la documentación: Asegura que todos los documentos generados sean coherentes y sigan los estándares establecidos, como IEEE 830 y UML 2.5.
+- Rendimiento: El sistema debe manejar un número significativo de usuarios simultáneos sin problemas de rendimiento, asegurando tiempos de respuesta rápidos.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 **8. Precedencia y Prioridad**
 
-- Enfoque en la mejora de calidad de requerimientos.
-- Priorización de funcionalidades más utilizadas en la industria.
+- Prioridad alta: Desarrollo de la funcionalidad básica de gestión de requerimientos y generación de diagramas UML. Estas son las características principales que definen el valor del sistema.
+- Prioridad media: Exportación de documentos a múltiples formatos (Word, PDF, Markdown).
+- Prioridad baja: Integraciones adicionales con otras plataformas de software, como herramientas de gestión de proyectos o sistemas de control de versiones.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
